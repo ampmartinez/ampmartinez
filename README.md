@@ -9,4 +9,4 @@
 
 - Previous Coding Experience: A little bit of R for bulk transcriptomics.
 
-- What I Hope to Get From This Course: A way of analysing A LOT of flow cytometry files withouth FlowJo crashing due to the files' size.
+- What I Hope to Get From This Course: A way of analysing A LOT of flow cytometry files without FlowJo crashing due to the files' size.
